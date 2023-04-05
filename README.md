@@ -9,7 +9,8 @@ It's connected to a WiFi network that remote sensors broadcast on.
 
 Locally connected sensors can be added to the I2C port for indoor sensors. These are enumerated and any provided drivers invoked. \
 The three broadcasts are read and the formatted payload output to the built in display, along with the Core2 current battery state. \
-Sample sensor servers can be found in the src/External_Sensors directory.
+<p>
+Sample sensor servers can be found in the External_Sensors directory. </p>
 <p align="center">
 <img src="./images/Core2.jpg" width="700" height="800">
 </p>
